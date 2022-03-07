@@ -27,7 +27,7 @@
             number1 /= 10;
 
         }
-        Console.WriteLine(array1[0] + " " + array1[1] + " " + array1[2]);
+        //Console.WriteLine(array1[0] + " " + array1[1] + " " + array1[2]);
 
         number1 = int.Parse(number);
 
@@ -37,7 +37,7 @@
             number1 /= 10;
 
         }
-        Console.WriteLine(array2[0] + " " + array2[1] + " " + array2[2]);
+        //Console.WriteLine(array2[0] + " " + array2[1] + " " + array2[2]);
         number1 = int.Parse(number);
         int i = 0;
         bool flag = false;
