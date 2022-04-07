@@ -43,15 +43,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3_HomeWork_Task2", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3_HomeWork_Task3", "Lesson3_HomeWork_Task3\Lesson3_HomeWork_Task3.csproj", "{E17EB4D3-50A5-4F68-89AD-10E5A5A751D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_HomeWork_Task1", "Lesson5_HomeWork_Task1\Lesson5_HomeWork_Task1.csproj", "{C9D3B730-1BD6-4731-AB26-FF6E2280441D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_HomeWork_Task1", "Lesson5_HomeWork_Task1\Lesson5_HomeWork_Task1.csproj", "{C9D3B730-1BD6-4731-AB26-FF6E2280441D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_HomeWork_Task2", "Lesson5_HomeWork_Task2\Lesson5_HomeWork_Task2.csproj", "{1EF74983-1B52-46A2-9F2C-92F393CF5D10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_HomeWork_Task2", "Lesson5_HomeWork_Task2\Lesson5_HomeWork_Task2.csproj", "{1EF74983-1B52-46A2-9F2C-92F393CF5D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_HomeWork_Task3", "Lesson5_HomeWork_Task3\Lesson5_HomeWork_Task3.csproj", "{B7BB9DCA-22D7-40AE-BEBE-478947809BDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_HomeWork_Task3", "Lesson5_HomeWork_Task3\Lesson5_HomeWork_Task3.csproj", "{B7BB9DCA-22D7-40AE-BEBE-478947809BDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_HomeWork_Task1", "Lesson6_HomeWork_Task1\Lesson6_HomeWork_Task1.csproj", "{9F5CF4E4-35CF-4AA1-B7F8-D27A3159AD07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_HomeWork_Task1", "Lesson6_HomeWork_Task1\Lesson6_HomeWork_Task1.csproj", "{9F5CF4E4-35CF-4AA1-B7F8-D27A3159AD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_HomeWork_Task2", "Lesson6_HomeWork_Task2\Lesson6_HomeWork_Task2.csproj", "{35B3AFC4-3F83-4CD1-9663-D3310C590AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_HomeWork_Task2", "Lesson6_HomeWork_Task2\Lesson6_HomeWork_Task2.csproj", "{35B3AFC4-3F83-4CD1-9663-D3310C590AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_HomeWork_Task1", "Lesson7_HomeWork_Task1\Lesson7_HomeWork_Task1.csproj", "{6FE09135-F9EE-405B-8A47-F97CDEF27A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_HomeWork_Task2", "Lesson7_HomeWork_Task2\Lesson7_HomeWork_Task2.csproj", "{5ACA5E8B-3828-48E7-B5C7-690E8F7480AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_HomeWork_Task3", "Lesson7_HomeWork_Task3\Lesson7_HomeWork_Task3.csproj", "{7B085611-E30E-45DA-BA91-EC5DDE93105C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{35B3AFC4-3F83-4CD1-9663-D3310C590AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B3AFC4-3F83-4CD1-9663-D3310C590AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B3AFC4-3F83-4CD1-9663-D3310C590AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE09135-F9EE-405B-8A47-F97CDEF27A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE09135-F9EE-405B-8A47-F97CDEF27A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE09135-F9EE-405B-8A47-F97CDEF27A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE09135-F9EE-405B-8A47-F97CDEF27A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACA5E8B-3828-48E7-B5C7-690E8F7480AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA5E8B-3828-48E7-B5C7-690E8F7480AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA5E8B-3828-48E7-B5C7-690E8F7480AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA5E8B-3828-48E7-B5C7-690E8F7480AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B085611-E30E-45DA-BA91-EC5DDE93105C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B085611-E30E-45DA-BA91-EC5DDE93105C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B085611-E30E-45DA-BA91-EC5DDE93105C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B085611-E30E-45DA-BA91-EC5DDE93105C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
