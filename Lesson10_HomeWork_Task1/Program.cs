@@ -2,10 +2,10 @@
 {
     static void Main(string[] args)
     {
-        int[] data = new int[] { 0, 1, 1, 1, 1, 0, 0, 0, 1 };
-        int[] info = new int[] { 2, 3, 3, 1 };
+        int[] arrayBinary = new int[] { 1, 1, 1, 0, 0, 1 }; //{ 0, 1, 1, 1, 1, 0, 0, 0, 1 };
+        int[] arrayByte = new int[] { 2, 3, 1 };//{ 2, 3, 3, 1 };
 
-        ResultDecimal(data, info);
+        ResultDecimal(arrayBinary, arrayByte);
     }
 
     static int[] ResultDecimal(int[] data, int[] info)

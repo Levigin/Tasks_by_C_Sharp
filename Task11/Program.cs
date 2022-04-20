@@ -6,7 +6,7 @@ public class Task11
         int[,] mat = new int[4,4];
         Rec(mat);
     }
-    public static void Rec(int[,] mat,int length = 0)
+    public static void Rec(int[,] mat, int length = 0)
     {
         if (mat.Length == length) return;
 
